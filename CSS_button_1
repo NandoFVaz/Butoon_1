@@ -1,0 +1,7 @@
+button:hover{
+    background-color: red
+}
+
+button:focus{
+    width: 300px;
+}
